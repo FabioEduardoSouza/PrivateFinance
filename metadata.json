@@ -1,0 +1,6 @@
+{
+  "name": "FinanPro - Controle Financeiro Moderno",
+  "description": "Sistema moderno de gestão financeira pessoal e empresarial com contas, cartões de crédito, fluxo de caixa, orçamentos, metas e integração PostgreSQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
